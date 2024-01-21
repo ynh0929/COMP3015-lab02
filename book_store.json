@@ -1,0 +1,22 @@
+[
+    {
+        "name": "The Lord of the Rings",
+        "authorName": "J.R.R. Tolkien",
+        "isbn": "9780358653035"
+    },
+    {
+        "name": "A Brief History of time",
+        "authorName": "Stephen Hawking",
+        "isbn": "C"
+    },
+    {
+        "name": "20,000 Leagues Under the Sea",
+        "authorName": "Jules Verne",
+        "isbn": "9781949460575"
+    },
+    {
+        "name": "Harry Potter and the Chamber of Secrets",
+        "authorName": "J.K. Rowling",
+        "isbn": "9781349480316"
+    }
+]
